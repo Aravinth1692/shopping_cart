@@ -1,0 +1,18 @@
+.HeaderCart{
+    padding: 30px;
+    border-bottom: 1px solid #F1E4C3;
+}
+.card_design{
+    border: 2px solid #638889;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Poppins';
+}
+.add_to_cart_design{
+    border: 1px solid #9DBC98;
+    border-radius: 10px;
+    padding: 1px;
+    background: #9DBC98;
+    font-family: 'Poppins';
+    color: white;
+}

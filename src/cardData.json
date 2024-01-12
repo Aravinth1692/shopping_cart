@@ -1,0 +1,30 @@
+{
+    "items": [
+      {
+        "id":0,
+        "name": "fancy Product",
+        "title":"$12",
+        "sale":true
+      },
+      {
+        "id":1,
+        "name": "Specil Item",
+        "title":"$123",
+        "sale":false
+      },
+      {
+        "id":2,
+        "name": "Sale Item",
+        "title":"$4545",
+        "sale":false
+      },
+      {
+        "id":3,
+        "name": "Popular Item",
+        "title":"$456",
+        "sale":true
+      }
+    ]
+    
+  }
+
